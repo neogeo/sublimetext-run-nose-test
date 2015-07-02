@@ -7,7 +7,7 @@ A Sublime Text 3 Plugin to make nose tests easier to run
 
 OS X:
 ```
-git clone git@github.com:neogeo/sublimetext-run-nose-test.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+git clone git@github.com:neogeo/sublimetext-run-nose-test.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/run_nose_test
 ```
 
 
