@@ -1,0 +1,5 @@
+[{
+    "id" : "run_nose_test",
+    "caption": "Copy Test Name",
+    "command": "run_nose_test"
+}]
